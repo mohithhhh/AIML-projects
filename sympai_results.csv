@@ -1,0 +1,4 @@
+name,probability,risk_score,red_flags,recommendations
+urinary tract infection,0.12686890927856811,0.55,,"Rest, hydrate, consider OTC medications"
+Hypertension,0.06116969685216979,0.55,,"Rest, hydrate, consider OTC medications"
+Cervical spondylosis,0.05815763175155962,0.55,,"Rest, hydrate, consider OTC medications"
